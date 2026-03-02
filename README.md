@@ -82,7 +82,7 @@ Real local trust.
 
 ---
 
-## 🌟 Why Assam Businesses Trust Us
+## 🌟 Why Businesses Trust Us
 
 Because we are not outsiders.
 
