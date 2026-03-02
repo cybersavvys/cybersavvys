@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00b4d8&height=190&section=header&text=CyberSavvy%20SMMA&fontSize=55&animation=twinkling" alt="CyberSavvy Header" />
   
-  <h3>অসমৰ Local SEO Revolution 🚀</h3>
+  <h3>অসমৰ Local SEO Revolution</h3>
   <p><strong>কঠোৰ পৰিশ্ৰমৰ কোনো বিকল্প নাই — কিন্তু visibility নাই মানে ফল নাই.</strong></p>
-  <p><strong>We Make Assam’s Hard Work Visible on Google. 🔥</strong></p>
+  <p><strong>We Make Assam’s Hard Work Visible on Google.</strong></p>
 </div>
 
 ---
 
-## 👋 নমস্কাৰ! Welcome to CyberSavvy SMMA
+## 🙏 নমস্কাৰ! Welcome to CyberSavvy SMMA
 
 We are a **results-obsessed Local SEO team from Barpeta, Assam.**
 
@@ -125,9 +125,9 @@ We make sure Assam businesses don’t stay invisible anymore.
 ---
 
 <div align="center">
-  <strong>Built with ☕ chai, late-night ranking battles & pure অসমীয়া pride ❤️</strong>
+  <strong>Built with ☕, late-night ranking battles & pure অসমীয়া pride ❤️</strong>
 </div>
 
 ---
 
-⭐ If you believe Assam businesses deserve Page 1 visibility — Star this repository.
+⭐ If you believe Assam businesses deserve Page 1 visibility — star this repository.
