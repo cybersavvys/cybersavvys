@@ -8,7 +8,7 @@
 
 ---
 
-## 🙏 নমস্কাৰ! Welcome to CyberSavvy SMMA
+## নমস্কাৰ! Welcome to CyberSavvy SMMA
 
 We are a **results-obsessed Local SEO team from Barpeta, Assam.**
 
@@ -24,7 +24,7 @@ We fix that.
 
 ---
 
-## 📊 Our Impact So Far
+## Our Impact So Far
 
 <div align="center">
 
@@ -44,7 +44,7 @@ We fix that.
 
 ---
 
-## 🛠️ What We Do (Execution, Not Theory)
+## What We Do (Execution, Not Theory)
 
 ### 1️⃣ Google Maps Domination
 Page 4 → Page 1  
