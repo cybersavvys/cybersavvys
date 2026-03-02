@@ -44,7 +44,7 @@ We fix that.
 
 ---
 
-## What We Do (Execution, Not Theory)
+## What We Do
 
 ### 1️⃣ Google Maps Domination
 Page 4 → Page 1  
