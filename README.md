@@ -35,13 +35,6 @@ We fix that.
 
 </div>
 
-| What We’ve Done          | Numbers      | Momentum |
-|--------------------------|-------------|----------|
-| Businesses Ranked        | **69+**     | 🔥 Scaling |
-| Cities Covered           | **10+**     | 🌏 Expanding |
-| Avg Ranking Time         | **30–60 Days** | ⚡ Fast |
-| Client Satisfaction      | **100%**    | ⭐⭐⭐⭐⭐ |
-
 ---
 
 ## What We Do
