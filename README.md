@@ -129,5 +129,3 @@ We make sure Assam businesses don’t stay invisible anymore.
 </div>
 
 ---
-
-⭐ If you believe Assam businesses deserve Page 1 visibility — star this repository.
