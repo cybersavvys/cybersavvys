@@ -1,72 +1,88 @@
-# 🔥 CyberSavvy SMMA
-
-**Assam's Local SEO Rebels**  
-Turning hidden gems into Google superstars — one precise ranking at a time.
-
----
-
-### The Story So Far
-
-We grew up watching incredible businesses in Assam work insanely hard…  
-…yet still get buried on page 4 when someone searches “near me”.
-
-That ends now.
-
-We’re a small, scrappy team from Barpeta obsessed with one thing:  
-**Making sure the right customer finds the right business — instantly.**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00b4d8&height=180&section=header&text=CyberSavvy%20SMMA&fontSize=55&animation=twinkling" alt="CyberSavvy Header" />
+  <h3>অসমৰ Local SEO Rebels 🔥</h3>
+  <p><strong>কঠোৰ পৰিশ্ৰমৰ কোনো বিকল্প নাই — এতিয়া Google-ত জয় লাভ কৰোঁ! 🚀</strong></p>
+</div>
 
 ---
 
-### What This GitHub Repo Actually Is
+### 👋 নমস্কাৰ! Welcome to CyberSavvy SMMA
 
-This isn’t just another marketing page.  
+আমি **Barpeta, Assam** ৰ পৰা এটা ছোট but deadly serious team।  
+অসমৰ hard-working ব্যৱসায়ীসকলক Google Maps আৰু "near me" search-ত দেখুৱাই দিওঁ যাতে তেওঁলোকৰ পরিশ্রম finally লাভ কৰে।  
 
-It’s our **open playground** where we:
-- Drop real behind-the-scenes ranking breakdowns
-- Share free local SEO templates & scripts (coming soon 👀)
-- Post unfiltered case studies with before/after proof
-- Document every lesson we learn growing businesses in Northeast India
-- Invite collaborators who love building digital infrastructure
-
-Think of it as your backstage pass to how we actually win on Google Maps.
+**Hard work should finally get customers.** ❤️
 
 ---
 
-### How We Think Different
+### 📊 Live Stats (আমাৰ Journey)
 
-We don’t do spray-and-pray marketing.  
-We engineer **local search dominance** like it’s rocket science (because in small towns, it kinda is).
+<div align="center">
 
-Our secret sauce?  
-We speak the language, understand the culture, and obsess over the tiny details that actually move the needle in Assam.
+![Clients](https://img.shields.io/badge/Businesses%20Helped-69%2B-brightgreen?style=flat-square)
+![Cities](https://img.shields.io/badge/Cities%20Across%20Assam-10%2B-blue?style=flat-square)
+![Speed](https://img.shields.io/badge/Results%20in-30--60%20days-orange?style=flat-square)
 
----
+</div>
 
-### Currently in the Works
-
-- Open-source Google Business Profile automation scripts  
-- Assam-specific keyword research database (free when ready)  
-- Monthly “Ranking Wins of Assam” newsletter  
-- Contributor program for local developers & SEO nerds
-
----
-
-### Want to Collaborate?
-
-- Business owner tired of being invisible? → Let’s talk strategy  
-- Developer who loves automation & local SEO? → DM us  
-- Fellow Assamese hustler? → We’re always up for chai & ideas
+| Achievement              | Number       | Status          |
+|--------------------------|--------------|-----------------|
+| Businesses Helped        | **69+**      | 🔥 Growing fast |
+| Cities Covered           | **10+**      | 🌏 Expanding    |
+| Average Big Win Time     | **30-60 days**| ⚡ Lightning    |
+| Client Happiness         | **100%**     | ⭐⭐⭐⭐⭐          |
 
 ---
 
-**Based in Barpeta • Built for every corner of Assam** 🇮🇳
+### 🛠️ Our Projects & Service Options (We keep adding!)
 
-📍 Reach us anytime  
-💬 WhatsApp → [Chat with us](https://wa.me/918099280494)  
-📧 Email → cybersavvysmma@gmail.com
+**যি আমি এতিয়া দিওঁ আৰু আৰু ভালকৈ দিবলৈ আছোঁ:**
+
+1. **Google Maps Ranking Mastery** → Page 4 → Page 1 ত উঠা  
+2. **Hyper Local SEO for Assam** → সৰু চহৰতো "near me" ত dominate কৰা  
+3. **High-Converting Websites** → যিবোৰে call + WhatsApp message বঢ়ায়  
+4. **Review + Trust Building** → Genuine reviews লৈ local trust গঢ়া  
+
+**New Projects Loading...**  
+(আমি নিয়মিত free tools, scripts আৰু case studies যোগ কৰি থাকোঁ)
+
+<details>
+<summary>🆕 Click to see what we're adding next 👀</summary>
+
+- Assam-specific keyword database (free soon)
+- Google Business Profile automation scripts
+- Monthly "Ranking Wins of Assam" breakdown
+- Contributor program for local developers
+
+</details>
 
 ---
 
-Made with chai, late-night ranking checks, and pure love for Assam businesses ❤️
+### 🌟 Why Assam Businesses Choose Us
 
-Star this repo if you believe hard work should finally be visible online ⭐
+> "এইবাৰ সঁচাকৈয়ে ফল পাইছোঁ!" — Barpeta, Guwahati, Silchar, Dibrugarh...
+
+আমি **অসমীয়া ভাষা, culture আৰু reality** বুজোঁ।  
+আমি Google-ৰ সৈতে যুঁজি আপোনাৰ business জয় কৰোঁ।
+
+---
+
+### 🤝 Join the Movement
+
+- **ব্যৱসায়ী আছা?** → Free Growth Audit লওক  
+- **Developer / SEO lover?** → Chai + collaboration welcome  
+- **Assam lover?** → Star কৰি support কৰক ⭐
+
+---
+
+<div align="center">
+  <strong>📍 Barpeta, Assam • সমগ্ৰ অসমৰ বাবে</strong><br><br>
+  
+  **[💬 WhatsApp Chat Now](https://wa.me/918099280494)** &nbsp;&nbsp;&nbsp; **cybersavvysmma@gmail.com**
+</div>
+
+---
+
+**Made with lots of ☕ chai, late-night ranking checks & pure অসমীয়া love ❤️**
+
+*Star this repo if you believe hard work in Assam should finally be visible online! ⭐*
