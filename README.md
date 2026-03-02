@@ -125,7 +125,7 @@ We make sure Assam businesses don’t stay invisible anymore.
 ---
 
 <div align="center">
-  <strong>Built with ☕, late-night ranking battles & pure অসমীয়া pride ❤️</strong>
+  <strong>Built with chai & pure অসমীয়া pride ❤️</strong>
 </div>
 
 ---
