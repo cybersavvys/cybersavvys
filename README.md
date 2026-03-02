@@ -127,5 +127,3 @@ We make sure Assam businesses don’t stay invisible anymore.
 <div align="center">
   <strong>Built with chai & pure অসমীয়া pride ❤️</strong>
 </div>
-
----
