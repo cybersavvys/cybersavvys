@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00b4d8&height=190&section=header&text=CyberSavvy%20SMMA&fontSize=55&animation=twinkling" alt="CyberSavvy Header" />
   
   <h3>অসমৰ Local SEO Revolution</h3>
-  <p><strong>কঠোৰ পৰিশ্ৰমৰ কোনো বিকল্প নাই — কিন্তু visibility নাই মানে ফল নাই.</strong></p>
+  <p><strong>কঠোৰ পৰিশ্ৰমৰ কোনো বিকল্প নাই—কিন্তু visibility নাথাকিলে তাৰ ফল পোৱা কঠিন।</strong></p>
   <p><strong>We Make Assam’s Hard Work Visible on Google.</strong></p>
 </div>
 
