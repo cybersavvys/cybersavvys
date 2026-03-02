@@ -8,7 +8,7 @@
 
 ---
 
-## নমস্কাৰ! Welcome to CyberSavvy 
+## Welcome to CyberSavvy 
 
 We are a **results-obsessed Local SEO team from Barpeta, Assam.**
 
